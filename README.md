@@ -1,8 +1,7 @@
-<h1 align="center">Olá, eu sou o Danilo 👋</h1>
+<h1 align="center">Danilo Pietrobon Neto</h1>
 
 <p align="center">
   Estudante de Engenharia de Computação na UTFPR - Pato Branco <br>
-  Estagiário no Parque Tecnológico de Pato Branco
 </p>
 
 <p align="center">
@@ -22,9 +21,9 @@
 ### 🎓 Sobre mim
 
 - 🔭 Cursando o 8º período de **Engenharia de Computação** na UTFPR-PB
-- 💼 Desenvolvimento de software, robótica educacional, desenvolvimento web e apoio a licitações públicas
+- 💼 Desenvolvimento de software, robótica, segurança computacional, segurança de redes
 - 🔐 Certificado em **Segurança da Informação** e **Defesa de Redes**
-- 🎮 Curto hardware de PC, jogos e projetos de eletrônica (Arduino, Raspberry Pi, nautimodelismo)
+- 🎮 Curto hardware de PC, jogos e projetos de eletrônica
 
 ---
 
