@@ -74,5 +74,5 @@ Matérias com repositório próprio:
 ---
 
 <p align="center">
-  <i>Feito com 💻 e muito café ☕</i>
+  <i></i>
 </p>
